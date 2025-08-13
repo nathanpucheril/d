@@ -1,0 +1,7 @@
+# Handle client-side routing for SPA if needed
+/*    /index.html   200
+
+# Blog post redirects
+/blog/getting-started-eleventy    /blog/getting-started-eleventy/    301
+/blog/static-sites-future         /blog/static-sites-future/        301
+/blog/optimizing-css-performance  /blog/optimizing-css-performance/ 301

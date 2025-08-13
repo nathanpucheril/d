@@ -1,0 +1,24 @@
+{
+  "name": "eleventy-template-site",
+  "version": "1.0.1",
+  "description": "A template Eleventy website for InstaWeb deployment",
+  "main": ".eleventy.js",
+  "scripts": {
+    "start": "npx eleventy --serve",
+    "build": "npx eleventy",
+    "dev": "npx eleventy --serve --watch"
+  },
+  "keywords": [
+    "eleventy",
+    "static-site",
+    "template",
+    "website"
+  ],
+  "author": "InstaWeb",
+  "license": "MIT",
+  "dependencies": {
+    "@11ty/eleventy": "^2.0.1",
+    "markdown-it": "^14.0.0",
+    "nunjucks": "^3.2.4"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "siteName": "My Eleventy Website",
+  "description": "A modern, fast website built with Eleventy",
+  "author": "InstaWeb",
+  "url": "https://example.com",
+  "language": "en",
+  "timezone": "UTC",
+  "social": {
+    "twitter": "@instaweb",
+    "github": "instaweb"
+  },
+  "navigation": [
+    {
+      "title": "Home",
+      "url": "/"
+    },
+    {
+      "title": "About",
+      "url": "/about"
+    },
+    {
+      "title": "Blog",
+      "url": "/blog"
+    }
+  ]
+}
